@@ -1,0 +1,43 @@
+Mario@DESKTOP-A22RK7U MINGW64 ~/OneDrive - UKIM, FINKI/4 семестар/Софтверско Инженерство/SI_2024_lab1_223152 (master)
+$ git log
+commit 516ecd115e532212bd0ee2db7ccf6bc2ab832a59 (HEAD -> master)
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 21:37:38 2024 +0100
+
+    Final commit
+
+commit 36fb0fbd452bd46133432e4e9d3726c9f931be3a (origin/master, origin/bug2, bug2)
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:32:17 2024 +0100
+
+    Konfliktot e razresen!
+
+commit ecca1371fdcf40ae6e5fbe13e1b4679bde8e22ad
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:26:58 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4f6de7a0a7a266bba78864539971f9a7bb7496f4 (origin/bug1, bug1)
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:29:36 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 1cc0e33f5ee22465443e9cbd73c2ad5ee1e26a69
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:21:20 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 7ee2c4d8bc37d98e4b212fd5fb8c930f79969a86
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:17:03 2024 +0100
+
+    Add starter code
+
+commit 6f6fadb642eded10127bc049f42d0548d4ca9eb9
+Author: Mario Stanojkovski <mario.stanojkovski14@gmai.com>
+Date:   Tue Mar 26 15:15:39 2024 +0100
+
+    Initial commit
